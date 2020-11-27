@@ -6,7 +6,7 @@ We firstly reproduced the results(both analytical and simulation) of the referen
 We did literature review as a part of innovation process on the topics such as vesicle based propagation, channel impulse response for passive receiver and enzymatic degradation.
 
 We also implemented LSTM model to compare with the existing ANN model as a part of data-driven approach.
-<br/>
+<br/><br/>
 **Project Members:**<br/>
 Naishi Shah<br/>
 Devshree Patel<br/>
